@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": "minecraft:raw_copper"
+  },
+  "pattern": [
+    "XXX",
+    "   ",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "divergeprog:raw_copper_bar"
+  }
+}

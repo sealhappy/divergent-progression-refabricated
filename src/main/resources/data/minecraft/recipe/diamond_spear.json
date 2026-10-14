@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  X",
+    " # ",
+    "#  "
+  ],
+  "key": {
+    "X": "divergeprog:diamond_bar",
+    "#": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:diamond_spear",
+    "count": 1
+  }
+}

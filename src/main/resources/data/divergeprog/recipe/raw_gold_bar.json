@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": "minecraft:raw_gold"
+  },
+  "pattern": [
+    "XXX",
+    "   ",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "divergeprog:raw_gold_bar"
+  }
+}

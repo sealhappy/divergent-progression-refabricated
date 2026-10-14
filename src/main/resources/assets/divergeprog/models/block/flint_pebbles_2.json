@@ -1,0 +1,164 @@
+{
+  "credit": "Made with Blockbench",
+  "ambientocclusion": false,
+  "textures": {
+    "0": "divergeprog:block/flint_pebbles",
+    "particle": "divergeprog:block/flint_pebbles"
+  },
+  "elements": [
+    {
+      "from": [
+        2,
+        0,
+        3
+      ],
+      "to": [
+        8,
+        2,
+        8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          5.0,
+          0,
+          5.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            14,
+            10,
+            16
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            9,
+            14,
+            14,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            6,
+            14,
+            12,
+            16
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            2,
+            14,
+            7,
+            16
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            6,
+            2,
+            12,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            6,
+            9,
+            12,
+            14
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [
+        10,
+        0,
+        9
+      ],
+      "to": [
+        15,
+        1,
+        13
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          12.5,
+          0,
+          11.0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            9,
+            15,
+            14,
+            16
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            15,
+            8,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
+            15,
+            7,
+            16
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            15,
+            12,
+            16
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            2,
+            8,
+            7,
+            12
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2,
+            4,
+            7,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

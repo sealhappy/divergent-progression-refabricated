@@ -1,0 +1,84 @@
+{
+  "variants": {
+    "pebbles=1": [
+      {
+        "model": "divergeprog:block/flint_pebbles_1"
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_1",
+        "uvlock": true,
+        "y": 90
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_1",
+        "uvlock": true,
+        "y": 180
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_1",
+        "uvlock": true,
+        "y": 270
+      }
+    ],
+    "pebbles=2": [
+      {
+        "model": "divergeprog:block/flint_pebbles_2"
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_2",
+        "uvlock": true,
+        "y": 90
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_2",
+        "uvlock": true,
+        "y": 180
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_2",
+        "uvlock": true,
+        "y": 270
+      }
+    ],
+    "pebbles=3": [
+      {
+        "model": "divergeprog:block/flint_pebbles_3"
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_3",
+        "uvlock": true,
+        "y": 90
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_3",
+        "uvlock": true,
+        "y": 180
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_3",
+        "uvlock": true,
+        "y": 270
+      }
+    ],
+    "pebbles=4": [
+      {
+        "model": "divergeprog:block/flint_pebbles_4"
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_4",
+        "uvlock": true,
+        "y": 90
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_4",
+        "uvlock": true,
+        "y": 180
+      },
+      {
+        "model": "divergeprog:block/flint_pebbles_4",
+        "uvlock": true,
+        "y": 270
+      }
+    ]
+  }
+}

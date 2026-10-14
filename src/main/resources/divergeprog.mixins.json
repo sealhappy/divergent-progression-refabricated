@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "package": "sealhappy.divergeprog.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "ComponentHolderMixin",
+    "ItemStackMixin",
+    "ToolMaterialsMixin",
+    "PlayerMixin",
+    "ServerPlayerGameModeMixin",
+    "AnvilMenuMixin"
+  ],
+  "client": [
+    "MultiPlayerGameModeMixin",
+    "MinecraftMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

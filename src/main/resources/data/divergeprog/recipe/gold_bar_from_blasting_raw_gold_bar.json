@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 3.0,
+  "group": "gold_bar",
+  "ingredient": "divergeprog:raw_gold_bar",
+  "result": "divergeprog:gold_bar"
+}

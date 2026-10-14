@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "divergeprog",
+	"version": "${version}",
+	"name": "Divergent Progression Refabricated",
+	"description": "Updated, maintained port of Divergent Progression",
+	"authors": [
+		"SealHappy"
+	],
+	"contact": {
+		"homepage": "https://github.com/sealhappy/divergent-progression-refabricated",
+		"sources": "https://github.com/sealhappy/divergent-progression-refabricated"
+	},
+	"license": "MIT",
+	"icon": "assets/divergeprog/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"sealhappy.divergeprog.DivergentProgression"
+		]
+	},
+	"mixins": [
+		"divergeprog.mixins.json",
+		{
+			"config": "template-mod.client.mixins.json",
+			"environment": "server"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

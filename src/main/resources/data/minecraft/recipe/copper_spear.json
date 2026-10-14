@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  X",
+    " # ",
+    "#  "
+  ],
+  "key": {
+    "X": "divergeprog:copper_bar",
+    "#": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:copper_spear",
+    "count": 1
+  }
+}
